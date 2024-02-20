@@ -101,6 +101,7 @@ fun Content(name: String, description: String, interests: String, modifier: Modi
     }
 }
 
+//
 //Display() composable containing a background image and calling Content() function
 @Composable
 fun Display(name: String, description: String, interests: String, modifier: Modifier = Modifier) {
