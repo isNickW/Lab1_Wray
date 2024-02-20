@@ -1,0 +1,1 @@
+This is a simple Android app I developed through my mobile applications course at Pellissippi. It doesn't really do anything other than display a simple UI to the user.
